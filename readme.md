@@ -36,10 +36,3 @@ This script kills that pain. One step, one model, fast output.
     pip install -r list_dependencies.txt
 
 4. Run this program in a powershell, or a IDE like VS code. 
-
----
-## 📱 Follow & Support
-
-- 📸 [Follow me on Instagram](https://www.instagram.com/parshva.0/)
-- 💸 UPI ID for donations: `parshvagala@fam`
-
